@@ -10,9 +10,6 @@ function App() {
         <h2>Language counting</h2>
       </div>
       <div className="card">
-        <button onClick={() => {}}>
-          count is gone
-        </button>
         <LanguagePractice/>
       </div>
 
